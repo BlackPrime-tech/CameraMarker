@@ -1,6 +1,7 @@
+
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "2.0",
   "apkUrl": "https://github.com/BlackPrime-tech/CameraMarker/releases/latest/download/CameraMarker.apk",
-  "releaseNotes": "CameraMarker Official Release"
+  "releaseNotes": "CameraMarker v2.0 - Performance improvements and updates"
 }
