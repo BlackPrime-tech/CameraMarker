@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "3.0",
-  "downloadUrl": "https://github.com/BlackPrime-tech/CameraMarker/releases/download/v3.0/CameraMarker.apk",
+  "apkUrl": "https://github.com/BlackPrime-tech/CameraMarker/releases/latest/download/CameraMarker.apk",
   "releaseNotes": "CameraMarker 3.0 - Code modularization and stability improvements."
 }
